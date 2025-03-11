@@ -36,7 +36,7 @@ SECRET_KEY = "django-insecure-fahx8-+w*dkqbf-y+wp4%vuxri-yitkjhp(ee6884whefe2ygh
 # DEBUG = True
 DEBUG = False
 
-ALLOWED_HOSTS = ['ee55-197-237-204-60.ngrok-free.app','127.0.0.1','stkpushmpesa.onrender.com']
+ALLOWED_HOSTS = ['ee55-197-237-204-60.ngrok-free.app','127.0.0.1','stkpushmpesa-7tdo.onrender.com']
 
 
 # Application definition

@@ -71,7 +71,7 @@ def stk_push(request):
             "PartyA": phone,
             "PartyB": SHORTCODE,
             "PhoneNumber" : phone,
-            "CallBackURL": "https://9e4f-197-254-50-242.ngrok-free.app/callback",
+            "CallBackURL": "https://stkpushmpesa-7tdo.onrender.com/callback",
             "AccountReference": f"Transaction_{transaction.id}",
             "TransactionDesc": "Payment for Services"
         }
