@@ -103,10 +103,10 @@ WSGI_APPLICATION = "stkPushMpesa.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "stkpushmpesa_65he",
-        "USER":"stkpushmpesa_65he_user",
-        "PASSWORD":"QwTiMWhXMMN45kabJjHnrYpsItn9KFnr",
-        "HOST":"dpg-ctimq9tsvqrc7381pv7g-a.oregon-postgres.render.com",
+        "NAME": "stkpushmpesa_mx9n",
+        "USER":"stkpushmpesa_mx9n_user",
+        "PASSWORD":"nV3VswKCINcnhq8ZRzuEmEnxqs4T0IUo",
+        "HOST":"dpg-cv84ga8gph6c739afipg-a.oregon-postgres.render.com",
         "PORT":"5432",
     }
 }
