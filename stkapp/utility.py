@@ -1,0 +1,7 @@
+CONSUMER_KEY = "wBoLJg5Fug74Ul4fLEnawCyvWNoxzQxSZevGaXByP201V4RG"
+CONSUMER_SECRET = "hk4Q6yLsrQQC5fpLdCMIbZGsKhqn1AxNl0iAimTWZiZaI7tOJ1A1N6hmbpitsyzR"
+SHORTCODE = "174379"
+PASSKEY = "bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919"
+BASE_URL = "https://sandbox.safaricom.co.ke"
+NGROK_URL = "https://9e4f-197-254-50-242.ngrok-free.app"
+BASE_NGROK_URL = "9e4f-197-254-50-242.ngrok-free.app"
